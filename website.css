@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(222, 222, 222);
+  margin: 0% 5% 0% 5%;
+}
+#erfolge {
+  background-color: rgb(247, 255, 142);
+  padding: 3%;
+  padding: 10%;
+  margin-top: -1%;
+  font-family: sans-serif;
+}
+#banner {
+  width: 30%;
+}
+#mainpic {
+  width: 100%;
+  margin-top: 15%;
+}
+p {
+  padding-bottom: 2%;
+}
+* {
+  scroll-behavior: smooth;
+}
+#nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 70px 0 100px;
+  flex-wrap: wrap;
+}
+a {
+  text-decoration: none;
+  letter-spacing: 1px;
+  color: rgb(0, 0, 0);
+  font-size: large;
+}
+#top {
+  background-color: transparent;
+  position: fixed;
+  backdrop-filter: blur(30px);
+  width: 88%;
+  padding: 1%;
+}
+#home {
+  background-image: url(https://www.taekwondo-garbsen.de/img/taekwondo-garbsen-slide1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 3%;
+}
